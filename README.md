@@ -108,9 +108,7 @@ Superset:
 - Sample project: http://airbnb.io/projects/superset/
 
 ## Community: 
-Data Science Central: 
-- [Linkedin group](https://www.linkedin.com/groups/35222/profile)
-Data Visualization: 
+* [Linkedin group](https://www.linkedin.com/groups/35222/profile) 
 * [Reddit](https://www.reddit.com/r/dataisbeautiful/)
 * [Kaggle](https://www.kaggle.com/datasets)
 * [Makeover Monday](http://www.makeovermonday.co.uk/blog/)
