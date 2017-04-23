@@ -35,8 +35,8 @@ Table of Content
 ### Network:
 * [Gephi Manual](https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/it0gy1bzwaZ/j12su0yri6v8/Gephi_Manual.pdf)
 * [Igraph](http://igraph.org/redirect.html)
- - [Example 1](https://www.r-bloggers.com/network-visualization-in-r-with-the-igraph-package/)
- - [Example 2](https://assemblingnetwork.wordpress.com/2013/05/29/network-basics-with-r-and-igraph-part-i-of-iii/)
+  - [Example 1](https://www.r-bloggers.com/network-visualization-in-r-with-the-igraph-package/)
+  - [Example 2](https://assemblingnetwork.wordpress.com/2013/05/29/network-basics-with-r-and-igraph-part-i-of-iii/)
 
 ### [Shiny](https://shiny.rstudio.com)
 * [Cheatsheet](http://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
@@ -49,16 +49,16 @@ Table of Content
 ## Other Visualization Tools
 * [Python](https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/isrin57rtrp2sq/j1dyzbdq5qdx/DataVisualizationinPython.html)
 * [Plotly](https://plot.ly/)
- - [Cheatsheet](https://images.plot.ly/plotly-documentation/images/r_cheat_sheet.pdf)
- - [Book](https://images.plot.ly/plotly-documentation/images/r_cheat_sheet.pdf)
+  - [Cheatsheet](https://images.plot.ly/plotly-documentation/images/r_cheat_sheet.pdf)
+  - [Book](https://images.plot.ly/plotly-documentation/images/r_cheat_sheet.pdf)
 * [Tableau](https://www.tableau.com/)
- - [Choropleth Maps](https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/isxb2lklpy73cc/j1hyb500hny7/ChoroplethMaps.html)
+  - [Choropleth Maps](https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/isxb2lklpy73cc/j1hyb500hny7/ChoroplethMaps.html)
 * [D3.js](https: https://d3js.org/)
 * [Skeleton](https://github.com/alexwainger/d3-skeleton)
 * [Gallery](https://github.com/d3/d3/wiki/Gallery)
 * [Visual.ly](http://visual.ly/)
 * [Superset](https://github.com/airbnb/superset)
- - [Sample project](http://airbnb.io/projects/superset/)
+  - [Sample project](http://airbnb.io/projects/superset/)
 
 ## Data Community: 
 * [Linkedin group](https://www.linkedin.com/groups/35222/profile) 
