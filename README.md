@@ -1,6 +1,12 @@
 # Exploratory Data Analysis/Visualization - Community Contribution
 At the end of the semester, we aggregate resources of data and visualization tools that classmates post on the Piazza to share with more people. 
 
+Table of Content
+- R
+- Other Visualization Tools
+- Data Community
+- Video Tutorial 
+- Raw Data Resource
 
 ## R
 ### Cheatsheet
@@ -107,8 +113,9 @@ Superset:
 - https://github.com/airbnb/superset
 - Sample project: http://airbnb.io/projects/superset/
 
-## Community: 
+## Data Community: 
 * [Linkedin group](https://www.linkedin.com/groups/35222/profile) 
+* [swirl](http://swirlstats.com)
 * [Reddit](https://www.reddit.com/r/dataisbeautiful/)
 * [Kaggle](https://www.kaggle.com/datasets)
 * [Makeover Monday](http://www.makeovermonday.co.uk/blog/)
@@ -116,12 +123,20 @@ Superset:
 * [Analytics Vidhya](https://www.analyticsvidhya.com)
 * [PyMOL](http://www.pymol.org)
 * [Exploratory](https://exploratory.io)
+* [Visual Vocabulary](http://ft-interactive.github.io/visual-vocabulary/)
+* [Data Visualize Catalogue](http://www.datavizcatalogue.com/index.html)
+* [ggplot2 Graph Gallery](http://www.r-graph-gallery.com/portfolio/ggplot2-package/)
+* [ggplot2 Time Series](https://plot.ly/ggplot2/time-series/)
+
+
+
 
 ## Video Tutorial:
 - [R Tutorials for Non-Programmer Datascientists - Full Course](https://www.youtube.com/playlist?list=PLFAYD0dt5xCzTQHDhMPZwBoaAXWeVhZzg)
 - [ggplot2](https://www.youtube.com/watch?v=HeqHMM4ziXA)
+- [Tableau](https://www.youtube.com/watch?v=x56ipAMMmLA)
 
-## Data Resources
+## Raw Data Resources
 Two websites that provide links to various of data 
 - [github](https://github.com/caesar0301/awesome-public-datasets)
 - [sqlbelle's musings](https://sqlbelle.com/2015/01/16/data-sets-for-bianalyticsvisualization-projects/)
