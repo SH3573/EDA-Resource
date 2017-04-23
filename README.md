@@ -1,6 +1,5 @@
 # Exploratory Data Analysis/Visualization - Community Contribution
-
-##### Sharing Resources of Data and Visualization Tools
+At the end of the semester, we aggregate resources of data and visualization tools that classmates post on the Piazza to share with more people. 
 
 
 ## R
@@ -94,8 +93,10 @@ Tableau:
 
 D3.js: 
 - https: https://d3js.org/
+
 Skeleton: 
 - https://github.com/alexwainger/d3-skeleton
+
 Gallery: 
 - https://github.com/d3/d3/wiki/Gallery
 
@@ -106,3 +107,14 @@ Superset:
 - https://github.com/airbnb/superset
 - Sample project: http://airbnb.io/projects/superset/
 
+## Community: 
+Data Science Central: 
+- [Linkedin group](https://www.linkedin.com/groups/35222/profile)
+Data Visualization: 
+* [Reddit](https://www.reddit.com/r/dataisbeautiful/)
+* [Kaggle](https://www.kaggle.com/datasets)
+* [Makeover Monday](http://www.makeovermonday.co.uk/blog/)
+* [the edav repository](http://moorissa.com/edav/)
+* [Analytics Vidhya](https://www.analyticsvidhya.com)
+* [PyMOL](http://www.pymol.org)
+* [Exploratory](https://exploratory.io)
