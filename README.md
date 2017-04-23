@@ -1,13 +1,7 @@
 # Exploratory Data Analysis/Visualization - Community Contribution
 
-### Sharing Resources of Data and Visualization Tools
+##### Sharing Resources of Data and Visualization Tools
 
-#### Visualization Tools:
-- R ggplot2
-- Plotly: https://plot.ly/
-- Tableau: https://www.tableau.com/
-- D3.js: https://d3js.org/
-- Visual.ly: http://visual.ly/
 
 ## R
 ### Cheatsheet
@@ -85,5 +79,30 @@ Examples:
 Video Tutorial:
 - https://www.youtube.com/watch?v=789ZcPHlg7w&index=4&list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB
  
+## Other Visualization Tools
+Python: 
+- https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/isrin57rtrp2sq/j1dyzbdq5qdx/DataVisualizationinPython.html
 
+Plotly: 
+- https://plot.ly/
+- Cheatsheet: https://images.plot.ly/plotly-documentation/images/r_cheat_sheet.pdf
+- Book: https://images.plot.ly/plotly-documentation/images/r_cheat_sheet.pdf
+
+Tableau: 
+- https://www.tableau.com/
+- Choropleth Maps: https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/isxb2lklpy73cc/j1hyb500hny7/ChoroplethMaps.html
+
+D3.js: 
+- https: https://d3js.org/
+Skeleton: 
+- https://github.com/alexwainger/d3-skeleton
+Gallery: 
+- https://github.com/d3/d3/wiki/Gallery
+
+Visual.ly: 
+- http://visual.ly/
+
+Superset: 
+- https://github.com/airbnb/superset
+- Sample project: http://airbnb.io/projects/superset/
 
