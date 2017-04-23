@@ -53,6 +53,7 @@ Table of Content
   - [Book](https://images.plot.ly/plotly-documentation/images/r_cheat_sheet.pdf)
 * [Tableau](https://www.tableau.com/)
   - [Choropleth Maps](https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/isxb2lklpy73cc/j1hyb500hny7/ChoroplethMaps.html)
+
 * [D3.js](https: https://d3js.org/)
 * [Skeleton](https://github.com/alexwainger/d3-skeleton)
 * [Gallery](https://github.com/d3/d3/wiki/Gallery)
