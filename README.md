@@ -116,3 +116,22 @@ Superset:
 * [Analytics Vidhya](https://www.analyticsvidhya.com)
 * [PyMOL](http://www.pymol.org)
 * [Exploratory](https://exploratory.io)
+
+## Video Tutorial:
+- [R Tutorials for Non-Programmer Datascientists - Full Course](https://www.youtube.com/playlist?list=PLFAYD0dt5xCzTQHDhMPZwBoaAXWeVhZzg)
+- [ggplot2](https://www.youtube.com/watch?v=HeqHMM4ziXA)
+
+## Data Resources
+Two websites that provide various of data 
+- [github](https://github.com/caesar0301/awesome-public-datasets)
+- [sqlbelle's musings](https://sqlbelle.com/2015/01/16/data-sets-for-bianalyticsvisualization-projects/)
+
+Finalcial: 
+https://www.quandl.com/
+Europa Statistics: http://ec.europa.eu/eurostat/data/database
+Social Science:
+	https://www.bls.gov/home.htm
+https://catalog.data.gov/dataset
+https://opendata.cityofnewyork.us
+https://data.ny.gov
+http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
