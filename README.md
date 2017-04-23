@@ -1,5 +1,5 @@
 # EDA-Community-Contribution
-### sharing resources of data and visualization tools
+### Sharing Resources of Data and Visualization Tools
 www.baidu.com
 
 
