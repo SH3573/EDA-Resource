@@ -1,4 +1,5 @@
-# EDA-Community-Contribution
+# Exploratory Data Analysis/Visualization - Community Contribution
+
 ### Sharing Resources of Data and Visualization Tools
 www.baidu.com
 
