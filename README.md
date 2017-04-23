@@ -2,11 +2,11 @@
 At the end of the semester, we aggregate resources of data and visualization tools that classmates post on the Piazza to share with more people. 
 
 Table of Content
-- R
-- Other Visualization Tools
-- Data Community
-- Video Tutorial 
-- Raw Data Resource
+* [R](##R)
+* Other Visualization Tools
+* Data Community
+* Video Tutorial 
+* Raw Data Resource
 
 ## R
 ### R Base Cheatsheet
