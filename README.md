@@ -3,10 +3,10 @@ At the end of the semester, we aggregate resources of data and visualization too
 
 Table of Content
 * [R](#r)
-* Other Visualization Tools
-* Data Community
-* Video Tutorial 
-* Raw Data Resource
+* [Other Visualization Tools](#other-visualization-tools)
+* [Data Community](#data-community)
+* [Video Tutorial](#video-tutorial)
+* [Raw Data Resource](#raw-data-resource)
 
 ## R
 ### R Base Cheatsheet
