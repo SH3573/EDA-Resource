@@ -14,8 +14,8 @@ Table of Content
 * [R Markdown](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 * Data Wrangling: 
- - [English](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
- - [Simplified Chinese](https://www.rstudio.com/wp-content/uploads/2015/03/data-wrangling-chinese.pdf)
+ * [English](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+ * [Simplified Chinese](https://www.rstudio.com/wp-content/uploads/2015/03/data-wrangling-chinese.pdf)
 * [Base Graphics](http://publish.illinois.edu/johnrgallagher/files/2015/10/BaseGraphicsCheatsheet.pdf)
 * [Color Palette Cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
 * [More](https://www.rstudio.com/resources/cheatsheets)
