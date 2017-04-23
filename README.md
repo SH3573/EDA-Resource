@@ -2,7 +2,7 @@
 At the end of the semester, we aggregate resources of data and visualization tools that classmates post on the Piazza to share with more people. 
 
 Table of Content
-* [R](##R)
+* [R](#R)
 * Other Visualization Tools
 * Data Community
 * Video Tutorial 
