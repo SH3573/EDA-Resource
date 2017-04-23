@@ -13,9 +13,11 @@
 ### Cheatsheet
 Base R: 
 - https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf
+
 R Markdown: 
 - https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
+
 Data Wrangling: 
 - (English): https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 - (Simplified Chinese): https://www.rstudio.com/wp-content/uploads/2015/03/data-wrangling-chinese.pdf
