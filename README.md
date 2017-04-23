@@ -1,5 +1,4 @@
-# Exploratory Data Analysis/Visualization 
-## Community Contribution
+# Exploratory Data Analysis/Visualization Community Contribution
 At the end of the semester, we aggregate resources of data and visualization tools that classmates post on the Piazza to share with more people. 
 
 Table of Content
@@ -27,7 +26,7 @@ Table of Content
 * [Colors](http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/)
 * [Plotly](https://plot.ly/ggplot2/)
 
-### PCP:
+### Parallel Coordinate Plot:
 * [Parcoords](http://www.buildingwidgets.com/blog/2015/1/30/week-04-interactive-parallel-coordinates-1)
 * [Ggparcord](https://www.rdocumentation.org/packages/GGally/versions/1.2.0/topics/ggparcoord)
 * [Plotly](https://plot.ly/r/parallel-coordinates-plot/)
