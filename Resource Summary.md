@@ -43,6 +43,7 @@ Table of Content
 * [Gallery of R Web APPs](https://www.showmeshiny.com/)
 * [Start Quick](https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/isy0quyl45w42n/j1ea1x5vufhs/01Howtostart.pdf)
 * [Tutorial with examples](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
+* [Examples with code](https://github.com/rstudio/shiny-examples)
 * [Video Tutorial](https://www.youtube.com/watch?v=789ZcPHlg7w&index=4&list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB)
 * [Useful Tips](http://deanattali.com/blog/advanced-shiny-tips/)
  
