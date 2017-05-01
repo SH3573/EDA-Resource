@@ -8,7 +8,7 @@ Table of Content
 * [Video Tutorial](#video-tutorial)
 * [Raw Data Resource](#raw-data-resource)
 * [Integrate R and Tableau](#integrate-r-and-tableau)
-* [Best/Weirdest charts from FiveThirtyEight](best/weirdest-charts-from-fivethirtyeight)
+* [Best/Weirdest charts from FiveThirtyEight](best-/-weirdest-charts-from-fivethirtyeight)
 
 ## R
 ### R Base Cheatsheet
