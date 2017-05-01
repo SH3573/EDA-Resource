@@ -8,7 +8,7 @@ Table of Content
 * [Video Tutorial](#video-tutorial)
 * [Raw Data Resource](#raw-data-resource)
 * [Integrate R and Tableau](#integrate-r-and-tableau)
-* [Best and Weirdest charts from FiveThirtyEight](best-and-weirdest-charts-from-fiveThirtyEight)
+* [Best and Weirdest charts from FiveThirtyEight](best-and-weirdest-charts-from-fivethirtyeight)
 
 ## R
 ### R Base Cheatsheet
@@ -117,7 +117,7 @@ Two websites that provide links to various of data
 - [github](https://github.com/caesar0301/awesome-public-datasets)
 - [sqlbelle's musings](https://sqlbelle.com/2015/01/16/data-sets-for-bianalyticsvisualization-projects/)
 
-## Best/Weirdest charts from FiveThirtyEight
+## Best and Weirdest charts from FiveThirtyEight
 * [2016](https://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/)
 * [2015](https://fivethirtyeight.com/features/our-47-weirdest-charts-from-2015/)
 * [2014](https://fivethirtyeight.com/datalab/our-33-weirdest-charts-from-2014/)
