@@ -7,6 +7,7 @@ Table of Content
 * [Data Community](#data-community)
 * [Video Tutorial](#video-tutorial)
 * [Raw Data Resource](#raw-data-resource)
+* [Integrate R and Tableau](#integrate-r-and-tableau)
 
 ## R
 ### R Base Cheatsheet
@@ -78,6 +79,11 @@ Table of Content
 * [Visual.ly](http://visual.ly/)
 * [Superset](https://github.com/airbnb/superset)
   * [Sample project](http://airbnb.io/projects/superset/)
+  
+## Integrate R and Tableau:
+* [Tutorial1](https://www.tableau.com/about/blog/2013/10/tableau-81-and-r-25327?signin=b23bd1058817c82b231217021bf039b8)
+* [Tutorial2](http://www.simafore.com/blog/bid/120209/Integrating-Tableau-and-R-for-data-analytics-in-four-simple-steps)
+* [Tutorial3](https://www.tableau.com/learn/tutorials/on-demand/how-integrate-r-and-tableau)
 
 ## Data Community: 
 * [Linkedin group](https://www.linkedin.com/groups/35222/profile) 
