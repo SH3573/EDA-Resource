@@ -8,6 +8,7 @@ Table of Content
 * [Video Tutorial](#video-tutorial)
 * [Raw Data Resource](#raw-data-resource)
 * [Integrate R and Tableau](#integrate-r-and-tableau)
+* [Best/Weirdest charts from FiveThirtyEight](best/weirdest-charts-from-fivethirtyeight)
 
 ## R
 ### R Base Cheatsheet
@@ -71,14 +72,20 @@ Table of Content
   * [Learn D3 Step by Step](https://www.quora.com/How-do-I-learn-D3-js)
 * [Chart.js](http://www.chartjs.org/)
   * [Quick Install](https://1stwebdesigner.com/chart-js-library/)
-* [D3 vs Chart]
+* D3 vs Chart
   * [Comparison](http://www.fusioncharts.com/javascript-charting-comparison/)
   * [When to use which](http://navyuginfo.com/d3-js-chartjs-use/)
+* [C3.js](http://c3js.org/)
+  * [Tutorial](http://c3js.org/gettingstarted.html)
+  * [Examples](http://c3js.org/examples.html)
 * [Skeleton](https://github.com/alexwainger/d3-skeleton)
 * [Gallery](https://github.com/d3/d3/wiki/Gallery)
 * [Visual.ly](http://visual.ly/)
 * [Superset](https://github.com/airbnb/superset)
   * [Sample project](http://airbnb.io/projects/superset/)
+* [visNetwork](visNetwork)
+  * [Tutorial (with code)](http://datastorm-open.github.io/visNetwork/)
+  * [Examples (without code)](http://visjs.org/network_examples.html)
   
 ## Integrate R and Tableau:
 * [Tutorial1](https://www.tableau.com/about/blog/2013/10/tableau-81-and-r-25327?signin=b23bd1058817c82b231217021bf039b8)
@@ -100,7 +107,6 @@ Table of Content
 * [ggplot2 Graph Gallery](http://www.r-graph-gallery.com/portfolio/ggplot2-package/)
 * [ggplot2 Time Series](https://plot.ly/ggplot2/time-series/)
 
-
 ## Video Tutorial:
 - [R Tutorials for Non-Programmer Datascientists - Full Course](https://www.youtube.com/playlist?list=PLFAYD0dt5xCzTQHDhMPZwBoaAXWeVhZzg)
 - [ggplot2](https://www.youtube.com/watch?v=HeqHMM4ziXA)
@@ -111,3 +117,7 @@ Two websites that provide links to various of data
 - [github](https://github.com/caesar0301/awesome-public-datasets)
 - [sqlbelle's musings](https://sqlbelle.com/2015/01/16/data-sets-for-bianalyticsvisualization-projects/)
 
+## Best/Weirdest charts from FiveThirtyEight
+* [2016](https://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/)
+* [2015](https://fivethirtyeight.com/features/our-47-weirdest-charts-from-2015/)
+* [2014](https://fivethirtyeight.com/datalab/our-33-weirdest-charts-from-2014/)
