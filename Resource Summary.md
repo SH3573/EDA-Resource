@@ -18,6 +18,7 @@ Table of Content
   * [Simplified Chinese](https://www.rstudio.com/wp-content/uploads/2015/03/data-wrangling-chinese.pdf)
 * [Base Graphics](http://publish.illinois.edu/johnrgallagher/files/2015/10/BaseGraphicsCheatsheet.pdf)
 * [Color Palette Cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
+* [Time Series Analysis in R](https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/itp0aa4mWB1/j24jno6p2a7s/IntroductionTimeSeries.html)
 * [More](https://www.rstudio.com/resources/cheatsheets)
 
 ### ggplot2
@@ -46,7 +47,14 @@ Table of Content
 * [Examples with code](https://github.com/rstudio/shiny-examples)
 * [Video Tutorial](https://www.youtube.com/watch?v=789ZcPHlg7w&index=4&list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB)
 * [Useful Tips](http://deanattali.com/blog/advanced-shiny-tips/)
- 
+
+### Markov chain Monte Carlo (MCMC) in R
+* [Example1](http://rstudio-pubs-static.s3.amazonaws.com/53490_d5805ab83a9e44cca480b8d377950a00.html)
+* [Example2](http://twiecki.github.io/blog/2014/01/02/visualizing-mcmc/)
+* [Example3](https://theoreticalecology.wordpress.com/2010/09/17/metropolis-hastings-mcmc-in-r/)
+* [Example4](http://www.math.helsinki.fi/petrin/test/mcmc-examples.r)
+* [Example5](https://nicercode.github.io/guides/mcmc/)
+
 ## Other Visualization Tools
 * [Python](https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/isrin57rtrp2sq/j1dyzbdq5qdx/DataVisualizationinPython.html)
 * [Plotly](https://plot.ly/)
@@ -56,8 +64,15 @@ Table of Content
   * [Choropleth Maps](https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/isxb2lklpy73cc/j1hyb500hny7/ChoroplethMaps.html)
   * [Tutorial1](http://www.tutorialgateway.org/tableau/)
   * [Tutorial2](https://www.tutorialspoint.com/tableau/tableau_get_started.htm)
-* [D3](https://d3js.org/)
+* [D3.js](https://d3js.org/)
   * [Examples](https://bl.ocks.org/)
+  * [Tutorial](https://github.com/d3/d3/wiki/tutorials)
+  * [Learn D3 Step by Step](https://www.quora.com/How-do-I-learn-D3-js)
+* [Chart.js](http://www.chartjs.org/)
+  * [Quick Install](https://1stwebdesigner.com/chart-js-library/)
+* [D3 vs Chart]
+  * [Comparison](http://www.fusioncharts.com/javascript-charting-comparison/)
+  * [When to use which](http://navyuginfo.com/d3-js-chartjs-use/)
 * [Skeleton](https://github.com/alexwainger/d3-skeleton)
 * [Gallery](https://github.com/d3/d3/wiki/Gallery)
 * [Visual.ly](http://visual.ly/)
@@ -78,8 +93,6 @@ Table of Content
 * [Data Visualize Catalogue](http://www.datavizcatalogue.com/index.html)
 * [ggplot2 Graph Gallery](http://www.r-graph-gallery.com/portfolio/ggplot2-package/)
 * [ggplot2 Time Series](https://plot.ly/ggplot2/time-series/)
-
-
 
 
 ## Video Tutorial:
