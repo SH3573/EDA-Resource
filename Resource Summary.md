@@ -21,6 +21,7 @@ Table of Content
 * [Base Graphics](http://publish.illinois.edu/johnrgallagher/files/2015/10/BaseGraphicsCheatsheet.pdf)
 * [Color Palette Cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
 * [Time Series Analysis in R](https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/itp0aa4mWB1/j24jno6p2a7s/IntroductionTimeSeries.html)
+* [Graphic Display Packages Summary](https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/itt9g5q5Z4P/j25ek3wwxqp7/DATA_Visulization_packages_and_tools.pdf)
 * [More](https://www.rstudio.com/resources/cheatsheets)
 
 ### ggplot2
@@ -40,6 +41,10 @@ Table of Content
 * [Igraph](http://igraph.org/redirect.html)
   - [Example 1](https://www.r-bloggers.com/network-visualization-in-r-with-the-igraph-package/)
   - [Example 2](https://assemblingnetwork.wordpress.com/2013/05/29/network-basics-with-r-and-igraph-part-i-of-iii/)
+* [visNetwork](visNetwork)
+  * [Review](https://d1b10bmlvqabco.cloudfront.net/attach/iwjz7hyhqd4qd/ik3idk121r72mr/j1xwod872a3x/visNetwork_Review.pdf)
+  * [Tutorial (with code)](http://datastorm-open.github.io/visNetwork/)
+  * [Examples (without code)](http://visjs.org/network_examples.html)
 
 ### [Shiny](https://shiny.rstudio.com)
 * [Cheatsheet](http://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
@@ -83,9 +88,7 @@ Table of Content
 * [Visual.ly](http://visual.ly/)
 * [Superset](https://github.com/airbnb/superset)
   * [Sample project](http://airbnb.io/projects/superset/)
-* [visNetwork](visNetwork)
-  * [Tutorial (with code)](http://datastorm-open.github.io/visNetwork/)
-  * [Examples (without code)](http://visjs.org/network_examples.html)
+
   
 ## Integrate R and Tableau:
 * [Tutorial1](https://www.tableau.com/about/blog/2013/10/tableau-81-and-r-25327?signin=b23bd1058817c82b231217021bf039b8)
