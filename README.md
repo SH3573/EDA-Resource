@@ -57,7 +57,7 @@ Table of Content
 * [Video Tutorial](https://www.youtube.com/watch?v=789ZcPHlg7w&index=4&list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB)
 * [Useful Tips](http://deanattali.com/blog/advanced-shiny-tips/)
 
-### [Lattice]
+### Lattice
 * [Package Review](Lattice_Package.pdf)
 
 ### [Other R Packages](http://www.computerworld.com/article/2921176/business-intelligence/great-r-packages-for-data-import-wrangling-visualization.html)
